@@ -1,0 +1,18 @@
+.contact-section{
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+}
+.contact-info ul{
+    list-style: none;
+}
+.contact-info a{
+    text-decoration: none;
+}
+   
+.form-in{
+    margin: auto;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+}

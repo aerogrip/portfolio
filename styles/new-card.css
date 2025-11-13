@@ -1,0 +1,125 @@
+body{
+    
+    margin: 300px;
+}
+
+section{
+    background-color: rgb(18, 161, 161);
+}
+.head{
+    text-align: center;
+    font-size: 28px;
+}
+.fst-card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.fst-card img{
+    border-radius: 15px;
+    height: 200px;
+}
+.fst-card h2{
+    text-align: center;
+}
+.fst-card p{
+    text-align: center;
+}
+.nd-card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.nd-card img{
+    border-radius: 15px;
+    height: 200px;
+}
+.nd-card h2{
+    text-align: center;
+}
+.nd-card p{
+    text-align: center;
+}
+.td-card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.td-card img{
+    border-radius: 15px;
+    height: 200px;
+}
+.td-card h2{
+    text-align: center;
+}
+.td-card p{
+    text-align: center;
+}
+.display{
+    display: flex;
+    justify-content: space-around;
+}
+.four-card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.four-card img{
+    border-radius: 15px;
+    height: 200px;
+}
+.four-card h2{
+    text-align: center;
+}
+.four-card p{
+    text-align: center;
+}
+.five-card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.five-card img{
+    border-radius: 15px;
+    height: 200px;
+}
+.five-card h2{
+    text-align: center;
+}
+.five-card p{
+    text-align: center;
+}
+.six-card{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 15px;
+}
+.six-card img{
+    border-radius: 15px;
+    height: 200px;
+}
+.six-card h2{
+    text-align: center;
+}
+.six-card p{
+    text-align: center;
+}
+.display-two{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    text-align: center;
+}
